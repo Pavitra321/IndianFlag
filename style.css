@@ -1,0 +1,18 @@
+.top{
+    height: 60px;
+    background-color: orangered;
+}
+.middle{
+    height: 60px;
+    background: white url(https://upload.wikimedia.org/wikipedia/commons/e/e4/Spinning_Ashoka_Chakra.gif) no-repeat center;
+    background-size: contain;
+ }
+.last{
+    height: 60px;
+    background-color: rgb(10, 102, 10);
+}
+.flag{
+    background-color:rgb(14, 1, 1);
+    height: 400px;
+    width: 10px;
+}
